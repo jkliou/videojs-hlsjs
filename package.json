@@ -1,13 +1,13 @@
 {
   "name": "videojs-hlsjs",
-  "version": "0.0.0",
-  "author": "benjipott",
+  "version": "0.0.1",
+  "author": "Jack Liou <jkliou@gmail.com>",
   "description": "A revolutionary plugin for video.js",
   "license": "Apache-2.0",
   "main": "./dist/videojs-hlsjs.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:benjipott/videojs-hlsjs.git"
+    "url": "git@github.com:jkliou/videojs-hlsjs.git"
   },
   "keywords": [
     "videojs",
